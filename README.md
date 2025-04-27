@@ -1,4 +1,4 @@
-```
+
 # 🚀 Metflix UI Clone
 
 > A **static**, **responsive** landing page clone of a popular streaming service’s UI — built purely for **educational** purposes.  
@@ -136,4 +136,11 @@ Please do **not** use this code or content as a production site or for any comme
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 Enjoy experimenting and learning! 🚀✨  
-```
+---
+
+## 📫 Get in Touch
+
+Got questions or feedback? Feel free to reach out!
+
+- 📧 Email: [vedantroy3@gmail.com](mailto:vedantroy3@gmail.com)  
+- 🔗 LinkedIn: [Vedant Roy](https://www.linkedin.com/in/vedant-roy-b58117227/)
