@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 120 30"
+  role="img"
+  aria-label="Metflix logo"
+>
+  <text
+    x="0"
+    y="24"
+    fill="rgb(229, 9, 20)"
+    font-family="Netflix Sans, Poppins, sans-serif"
+    font-weight="900"
+    font-size="24"
+  >
+    Metflix
+  </text>
+</svg>
