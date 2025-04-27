@@ -121,7 +121,7 @@ Use this project as a template for:
 
 ## ❗ Legal & Disclaimer
 
-> **DISCLAIMER:** This repository, and the live site it powers, are **personal educational projects only**.  
+> **DISCLAIMER:** This repository is **personal educational project only**.  
 > - **Not affiliated** with any streaming service, brand, or company.  
 > - **No user data** is collected, stored, or transmitted.  
 > - All images & likenesses of shows/series are copyrighted material from third-party studios and are used here **solely** for demonstration.  
